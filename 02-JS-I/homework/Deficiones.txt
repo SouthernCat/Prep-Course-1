@@ -1,0 +1,17 @@
+
+ - Variable: es una forma de guardar información dentro del espacio en memoria (como un espacio reservado), 
+para poder ser utilizada más adelante.
+
+ - Strings: son hilos o cadenas de caracteres (pueden ser letras, números, símbolos, etc). 
+Siempre se definen entre comillas (pueden ser dobles o simples).
+
+ - Funciones (return): las funciones son métodos que nos permiten dividir y agrupar código, para guardarlos 
+en espacio en memoria y luego podamos invocarlos y ejercutarlos (estas siempre retornan algo).
+	En el caso de la función (y palabra reservada) "return", se utiliza para devolver un valor.
+
+ - Declaraciones "If": las declaraciones sirven para ejecutar acciones, dependiendo de los datos que se le brinden.
+	Por ejemplo, IF, sirve para evaluar las expresiones que se le den. Si la condición se cumple, ésta ejecuta 
+un bloque de código. Pero en caso de no ser así, pasará a la siguiente.
+
+ - Valores booleanos (true, false): son tipos de datos, que pueden diferenciarse en dos opciones: Verdadero o Falso. 
+Estos permiten controlar el flujo de código que se va ejecutando.
