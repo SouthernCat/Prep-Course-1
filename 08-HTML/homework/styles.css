@@ -1,0 +1,39 @@
+
+body {
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/241/325/193/wood-background-wallpaper-preview.jpg);
+    background-size: cover;
+}
+
+h1, h3, h4 { 
+    display: flex;
+    justify-content: center;
+
+}
+
+h1 {
+    color: rgb(97, 53, 138);
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 500px;
+    background-color: orange;
+    padding: 50px;
+    border: 6px solid brown;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+#Background {
+    background-image        
+}
+
