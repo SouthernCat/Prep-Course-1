@@ -1,0 +1,12 @@
+
+ - FOR: es un bucle (loop), que es utilizado para repetir instrucciones según la cantidad que determinemos, o 
+también puede ejecutarse la cantidad de veces que se necesario, hasta que la condición sea false.
+
+ - &&: es un operador lógico, que representa el "Y" o "And". Es, habitualmente, usado en valores booleanos. Por 
+ejemplo, evalúa dos condiciones, y devuelve "true" solo si ambas empresiones son verdaderas.
+
+ - ||: operador lógico, que representa "O" u "Or". También, es utilizado para evaluar valores booleanos. Por 
+ejemplo, si una de las condiciones es true, pero la otra es false, aún así mi código se ha de ejecutar.
+No es determinante que ambas condiciones deban ser true o false.
+
+ - !: este operador nos devuelve el valor contrario al que le pasamos.
