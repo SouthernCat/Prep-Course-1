@@ -1,0 +1,3 @@
+ 
+ - ARRAY: (arreglos) es una lista de elementos, que funcionan de manera ordenada. Me puedo referir a ellos, con
+nombre e índice. Se definen con brackets y se separan entre comas. 
